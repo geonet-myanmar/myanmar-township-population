@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.venv/
+env/
+
+# Output files (regenerate from script)
+myanmar_township_population_analysis.csv
+myanmar_township_stats.geojson
