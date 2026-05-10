@@ -200,5 +200,7 @@ MIT License — see [LICENSE](LICENSE) file for details.
 If you use this analysis or the associated scripts in your research or projects, please cite this repository:
 
 > Myanmar Township Population Aggregation & Density Analysis. GitHub repository: https://github.com/geonet-myanmar/myanmar-township-population.
+> 
 > Population Data: Kontur. (2023). Kontur Population Myanmar (Version: 2023-11-01). This high-resolution population dataset is provided in a 400m hexagonal grid format.
+> 
 > Township Boundaries: Myanmar Information Management Unit (MIMU). Myanmar Township Boundaries (Admin3). These geometries serve as the primary administrative units for the population aggregation.
