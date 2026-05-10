@@ -197,7 +197,7 @@ MIT License — see [LICENSE](LICENSE) file for details.
 
 ## Citation
 
-If you use this analysis or the associated scripts in your research or projects, please cite this repository:
+If you use this analysis or the associated scripts in your research or projects, please cite:
 
 > Myanmar Township Population Aggregation & Density Analysis. GitHub repository: https://github.com/geonet-myanmar/myanmar-township-population.
 > 
